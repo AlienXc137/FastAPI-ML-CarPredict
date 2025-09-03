@@ -1,7 +1,7 @@
 # FastAPI ML Car Prediction API
 This project is a Machine Learning-powered API built using FastAPI to predict the selling price of a used car based on its characteristics.
 
-Currently to interact with the API we are using FastAPI in built UI , put /docs after the given link to interact with the api.
+Currently to interact with the API we are using FastAPI in built UI.
 
 ## Project Features
 * Authentication: JWT-based token auth and API key validation
@@ -9,7 +9,7 @@ Currently to interact with the API we are using FastAPI in built UI , put /docs 
 * Redis Caching: inputs cached in redis for 30 minutes
 * Monitoring Ready: Prometheus metrics + Grafana dashboards
 * Dockerized Setup: Simplified deployment with Docker Compose
-* Cloud Deployment: Deployed on render : https://fastapi-ml-carpredict.onrender.com/
+* Cloud Deployment: Deployed on render : https://fastapi-ml-carpredict.onrender.com/docs
 
 ## Model Input Variables
 
