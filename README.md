@@ -1,7 +1,7 @@
 # FastAPI ML Car Prediction API
 This project is a Machine Learning-powered API built using FastAPI to predict the selling price of a used car based on its characteristics.
 
-Currently to interact with the API we are using FastAPI in built UI.
+** Note:Currently to interact with the API we are using FastAPI in built UI. It will take some time because render shuts down the service when there is no activity
 
 ## Project Features
 * Authentication: JWT-based token auth and API key validation
